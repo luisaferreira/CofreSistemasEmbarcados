@@ -3,6 +3,9 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+//Lucas Gabriel Silva Santos
+//Maria Luisa de Jesus Silva Ferreira
+
 #include "mbed.h"
 #include <chrono>
 #include <iostream>
